@@ -3,6 +3,6 @@ this is tictactoe git repo
 <br>
 Author - Midlaj
 <br>
-place - earth
+place - earth (Delhi)
 <br>
 time Added
